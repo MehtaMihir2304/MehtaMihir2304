@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/main/assets/goku.gif" height="220" />
+<img align="right" src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/main/assets/readme-image.gif" height="220" />
 
 
 ###
