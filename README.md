@@ -67,4 +67,4 @@
 
 <br clear="both">
 
-<img align="right" src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/main/assets/pokemon-svg.jpg" height="220" />
+<img align="left" src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/main/assets/pokemon-svg.jpg" height="220" />
