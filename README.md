@@ -67,4 +67,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://raw.githubusercontent.com/MehtaMihir2304/MehtaMihir2304/main/assets/pokemon-svg.jpg" height="220" />
